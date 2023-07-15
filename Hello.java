@@ -2,6 +2,6 @@
 {
 	Public static void main(String args[])
 	{
-		System.out.println(“hello it for example”);
+		System.out.println(“hello it for remote”);
 	}
 }
